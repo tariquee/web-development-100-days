@@ -1,0 +1,16 @@
+td
+{
+    border: 2px solid black;
+}
+p{
+    background-color: rgb(35, 124, 124);
+}
+a{
+    background-color: rgb(33, 12, 12);
+}
+.red{
+    background-color: red;
+}
+.bg-yellow{
+    background-color: yellow;
+}
